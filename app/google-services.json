@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "787724677953",
+    "firebase_url": "https://fir-database-83b11.firebaseio.com",
+    "project_id": "fir-database-83b11",
+    "storage_bucket": "fir-database-83b11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787724677953:android:d1aec2b756be6d70",
+        "android_client_info": {
+          "package_name": "shafir.irena.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787724677953-u1gln5ruccrt5ds4hpovnpdh4nohhbp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shafir.irena.firebasedatabase",
+            "certificate_hash": "f78ded3b4c32550fe4f0a33586d7e57a05821825"
+          }
+        },
+        {
+          "client_id": "787724677953-0rbaenrgmhr7cp5m0ntouj6m3tkdiad7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlz62PE-9arhTjo3VePanx8yokHX1QYog"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787724677953-0rbaenrgmhr7cp5m0ntouj6m3tkdiad7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

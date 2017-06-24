@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="shafir.irena.firebasedatabase.MainActivity">
+    <item
+        android:id="@+id/users"
+        android:orderInCategory="100"
+        android:title="View All Users"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/sign_out"
+        android:orderInCategory="101"
+        android:title="Sign Out"
+        app:showAsAction="never" />
+
+</menu>

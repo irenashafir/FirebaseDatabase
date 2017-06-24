@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseDatabase</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_application_id" translatable="false">1376212875748936</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1376212875748936</string>
+</resources>
